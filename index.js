@@ -34,7 +34,6 @@ function add2Guest() {
 }
 
 function add3Guest() {
-    console.log("click")
     guestScore += 3
     guestCount.textContent = guestScore
 }
